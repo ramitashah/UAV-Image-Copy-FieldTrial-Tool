@@ -99,8 +99,13 @@ No Python installation is required.
 
 ## Developed By
 
+
+Developer: **Ramita Shah**
 **Paulo Flores Lab (ABEN)**  
 Department of Agricultural and Biosystems Engineering  
 North Dakota State University (NDSU)
 
-Developer: **Ramita Shah**
+## License
+
+This software is distributed for academic, research, and educational use only. The source code is not publicly available. See the LICENSE file for details.
+
