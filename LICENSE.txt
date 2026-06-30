@@ -1,0 +1,20 @@
+Copyright (c) 2026 Ramita Shah
+
+All rights reserved.
+
+This software is provided for academic, research, and educational use only.
+
+Users may download and use this software for non-commercial purposes.
+
+Users are NOT permitted to:
+- Modify the software
+- Reverse engineer the software
+- Redistribute the software without written permission
+- Sell the software or any derivative works
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+For permissions or inquiries, contact:
+Ramita Shah
+Department of Agricultural and Biosystems Engineering
+North Dakota State University
